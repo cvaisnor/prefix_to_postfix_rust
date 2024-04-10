@@ -1,1 +1,1 @@
-Simple program to convert a prefx expression to a postfix expression using a stack in Rust.
+Simple program to convert a prefix expression to a postfix expression using a stack in Rust.
